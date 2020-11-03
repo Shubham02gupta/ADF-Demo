@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADF-SG1-Dev"
+		},
+		"AzureBlobStorageV2_connectionString": {
+			"value": ""
 		}
 	}
 }
